@@ -3,5 +3,35 @@
   "name":"Boldmatte",
 "code":"Boldmatte",
 "download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/Boldmatte.ttf"
+},
+  {
+  "name":"Rushfordclean",
+"code":"Rushfordclean",
+"download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/Rushfordclean.otf"
+},
+  {
+  "name":"MontserratMedium",
+"code":"MontserratMedium",
+"download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/MontserratMedium.ttf"
+},
+  {
+  "name":"ChokoMilky",
+"code":"ChokoMilky",
+"download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/ChokoMilky.otf"
+},
+  {
+  "name":"Musician",
+"code":"Musician",
+"download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/Musician.otf"
+},
+  {
+  "name":"AtlantaCollegeRegular",
+"code":"AtlantaCollegeRegular",
+"download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/AtlantaCollegeRegular.ttf"
+},
+  {
+  "name":"ShackleRegular",
+"code":"ShackleRegular",
+"download":"https://raw.githubusercontent.com/MiranteDev/AdsReactApp/main/ShackleRegular.ttf"
 }
 ]
